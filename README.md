@@ -2,12 +2,12 @@
 
 Development of a clock working in real time according to IP time.
 
-## Installation
+## Languages
 
 Install react-app only
 
 ```bash
-npx creat-react-app
+HTML & CSS & Javascript
 ```
 
 ## Contributing

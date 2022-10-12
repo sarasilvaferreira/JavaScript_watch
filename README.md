@@ -1,4 +1,4 @@
-# reactproject_watch
+# React Project Watch
 
 Development of a clock working in real time according to IP time.
 
